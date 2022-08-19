@@ -1,0 +1,2 @@
+The GIF of the logo was produced using the file: https://github.com/SciTools/marketing/blob/28ab7a79401a738e58f03939ed1fed2dc008c474/iris/logo/generate_logo.py using the following command:
+`python generate_logo.py --banner_text "Iris" --banner_version "v3.3.0rc0" --rotate True`
